@@ -1,6 +1,6 @@
-# Anon - An eCommerce Website
+# eCommerce Website
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+The eCommerce website is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
